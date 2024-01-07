@@ -1,0 +1,8 @@
+PHONE PAY:
+Sceanrio: Validating the transaction
+1.Go to plyastore and download PhonePay application in android device
+2.Enter mobile number and click on login 
+3.Click on To Mobile Number in Transfer Money section
+4.Enter mobile number/name in serch box and click on enter
+5.Enter the required amount and click on Pay
+6.Enter 6 digit UPI Pin then user should get popup as payment successfulll.
